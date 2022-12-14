@@ -1,0 +1,920 @@
+Uri: https://bestwpware.com/comments/feed/
+File Name: C:\Downloaded Web Sites\gcoin.tech\comments\feed\index.htm
+Content Type: application/rss+xml
+
+Uri: https://bestwpware.com/feed/
+File Name: C:\Downloaded Web Sites\gcoin.tech\feed\index.htm
+Content Type: application/rss+xml
+
+Uri: https://bestwpware.com/recommends/hostinger
+File Name: C:\Downloaded Web Sites\gcoin.tech\recommends\hostinger
+Content Type: text/html
+
+Uri: https://bestwpware.com/wp-content/plugins/bbpress/templates/default/css/bbpress.min.css?ver=2.6.9
+File Name: C:\Downloaded Web Sites\gcoin.tech\wp-content\plugins\bbpress\templates\default\css\bbpress.min.css
+Content Type: text/css
+
+Uri: https://bestwpware.com/wp-content/plugins/contact-form-7/includes/css/styles.css?ver=5.6.1
+File Name: C:\Downloaded Web Sites\gcoin.tech\wp-content\plugins\contact-form-7\includes\css\styles.css
+Content Type: text/css
+
+Uri: https://bestwpware.com/wp-content/plugins/contact-form-7/includes/css/styles.css?ver=5.6.4
+File Name: C:\Downloaded Web Sites\gcoin.tech\wp-content\plugins\contact-form-7\includes\css\styles-1.css
+Content Type: text/css
+
+Uri: https://bestwpware.com/wp-content/plugins/contact-form-7/includes/js/index.js?ver=5.6.1
+File Name: C:\Downloaded Web Sites\gcoin.tech\wp-content\plugins\contact-form-7\includes\js\index.js
+Content Type: application/javascript
+
+Uri: https://bestwpware.com/wp-content/plugins/contact-form-7/includes/js/index.js?ver=5.6.4
+File Name: C:\Downloaded Web Sites\gcoin.tech\wp-content\plugins\contact-form-7\includes\js\index-1.js
+Content Type: application/javascript
+
+Uri: https://bestwpware.com/wp-content/plugins/contact-form-7/includes/swv/js/index.js?ver=5.6.4
+File Name: C:\Downloaded Web Sites\gcoin.tech\wp-content\plugins\contact-form-7\includes\swv\js\index.js
+Content Type: application/javascript
+
+Uri: https://bestwpware.com/wp-content/plugins/forget-about-shortcode-buttons/public/css/button-styles.css?ver=2.1.2
+File Name: C:\Downloaded Web Sites\gcoin.tech\wp-content\plugins\forget-about-shortcode-buttons\public\css\button-styles.css
+Content Type: text/css
+
+Uri: https://bestwpware.com/wp-content/plugins/forget-about-shortcode-buttons/public/css/font-awesome.min.css
+File Name: C:\Downloaded Web Sites\gcoin.tech\wp-content\plugins\forget-about-shortcode-buttons\public\css\font-awesome.min.css
+Content Type: text/css
+
+Uri: https://bestwpware.com/wp-content/plugins/forget-about-shortcode-buttons/public/fonts/fontawesome-webfont.eot?
+File Name: C:\Downloaded Web Sites\gcoin.tech\wp-content\plugins\forget-about-shortcode-buttons\public\fonts\fontawesome-webfont-1.eot
+Content Type: application/vnd.ms-fontobject
+
+Uri: https://bestwpware.com/wp-content/plugins/forget-about-shortcode-buttons/public/fonts/fontawesome-webfont.eot?v=4.0.3
+File Name: C:\Downloaded Web Sites\gcoin.tech\wp-content\plugins\forget-about-shortcode-buttons\public\fonts\fontawesome-webfont.eot
+Content Type: application/vnd.ms-fontobject
+
+Uri: https://bestwpware.com/wp-content/plugins/forget-about-shortcode-buttons/public/fonts/fontawesome-webfont.svg?v=4.0.3
+File Name: C:\Downloaded Web Sites\gcoin.tech\wp-content\plugins\forget-about-shortcode-buttons\public\fonts\fontawesome-webfont.svg
+Content Type: image/svg+xml
+
+Uri: https://bestwpware.com/wp-content/plugins/forget-about-shortcode-buttons/public/fonts/fontawesome-webfont.ttf?v=4.0.3
+File Name: C:\Downloaded Web Sites\gcoin.tech\wp-content\plugins\forget-about-shortcode-buttons\public\fonts\fontawesome-webfont.ttf
+Content Type: font/ttf
+
+Uri: https://bestwpware.com/wp-content/plugins/forget-about-shortcode-buttons/public/fonts/fontawesome-webfont.woff?v=4.0.3
+File Name: C:\Downloaded Web Sites\gcoin.tech\wp-content\plugins\forget-about-shortcode-buttons\public\fonts\fontawesome-webfont.woff
+Content Type: font/woff
+
+Uri: https://bestwpware.com/wp-content/plugins/google-analytics-for-wordpress/assets/js/frontend-gtag.min.js?ver=8.7.0
+File Name: C:\Downloaded Web Sites\gcoin.tech\wp-content\plugins\google-analytics-for-wordpress\assets\js\frontend-gtag.min.js
+Content Type: text/html
+
+Uri: https://bestwpware.com/wp-content/plugins/jetpack/css/jetpack.css?ver=11.5.1
+File Name: C:\Downloaded Web Sites\gcoin.tech\wp-content\plugins\jetpack\css\jetpack.css
+Content Type: text/css
+
+Uri: https://bestwpware.com/wp-content/plugins/jetpack/modules/shortcodes/images/collapse.png
+File Name: C:\Downloaded Web Sites\gcoin.tech\wp-content\plugins\jetpack\modules\shortcodes\images\collapse.png
+Content Type: image/png
+
+Uri: https://bestwpware.com/wp-content/plugins/jetpack/modules/shortcodes/images/expand.png
+File Name: C:\Downloaded Web Sites\gcoin.tech\wp-content\plugins\jetpack\modules\shortcodes\images\expand.png
+Content Type: image/png
+
+Uri: https://bestwpware.com/wp-content/plugins/jetpack/modules/shortcodes/images/slide-nav.png
+File Name: C:\Downloaded Web Sites\gcoin.tech\wp-content\plugins\jetpack\modules\shortcodes\images\slide-nav.png
+Content Type: image/png
+
+Uri: https://bestwpware.com/wp-content/plugins/jetpack/modules/shortcodes/img/slideshow-controls-2x.png
+File Name: C:\Downloaded Web Sites\gcoin.tech\wp-content\plugins\jetpack\modules\shortcodes\img\slideshow-controls-2x.png
+Content Type: image/png
+
+Uri: https://bestwpware.com/wp-content/plugins/jetpack/modules/shortcodes/img/slideshow-controls.png
+File Name: C:\Downloaded Web Sites\gcoin.tech\wp-content\plugins\jetpack\modules\shortcodes\img\slideshow-controls.png
+Content Type: image/png
+
+Uri: https://bestwpware.com/wp-content/plugins/js_composer/assets/js/vendors/woocommerce-add-to-cart.js?ver=6.9.0
+File Name: C:\Downloaded Web Sites\gcoin.tech\wp-content\plugins\js_composer\assets\js\vendors\woocommerce-add-to-cart.js
+Content Type: application/javascript
+
+Uri: https://bestwpware.com/wp-content/plugins/thirstyaffiliates/js/app/ta.js?ver=3.10.11
+File Name: C:\Downloaded Web Sites\gcoin.tech\wp-content\plugins\thirstyaffiliates\js\app\ta.js
+Content Type: application/javascript
+
+Uri: https://bestwpware.com/wp-content/plugins/thirstyaffiliates/js/app/ta.js?ver=3.10.13
+File Name: C:\Downloaded Web Sites\gcoin.tech\wp-content\plugins\thirstyaffiliates\js\app\ta-1.js
+Content Type: application/javascript
+
+Uri: https://bestwpware.com/wp-content/plugins/woocommerce/assets/css/woocommerce-layout.css?ver=6.7.0
+File Name: C:\Downloaded Web Sites\gcoin.tech\wp-content\plugins\woocommerce\assets\css\woocommerce-layout.css
+Content Type: text/css
+
+Uri: https://bestwpware.com/wp-content/plugins/woocommerce/assets/css/woocommerce-layout.css?ver=7.1.0
+File Name: C:\Downloaded Web Sites\gcoin.tech\wp-content\plugins\woocommerce\assets\css\woocommerce-layout-1.css
+Content Type: text/css
+
+Uri: https://bestwpware.com/wp-content/plugins/woocommerce/assets/css/woocommerce-smallscreen.css?ver=6.7.0
+File Name: C:\Downloaded Web Sites\gcoin.tech\wp-content\plugins\woocommerce\assets\css\woocommerce-smallscreen.css
+Content Type: text/css
+
+Uri: https://bestwpware.com/wp-content/plugins/woocommerce/assets/css/woocommerce-smallscreen.css?ver=7.1.0
+File Name: C:\Downloaded Web Sites\gcoin.tech\wp-content\plugins\woocommerce\assets\css\woocommerce-smallscreen-1.css
+Content Type: text/css
+
+Uri: https://bestwpware.com/wp-content/plugins/woocommerce/assets/css/woocommerce.css?ver=6.7.0
+File Name: C:\Downloaded Web Sites\gcoin.tech\wp-content\plugins\woocommerce\assets\css\woocommerce.css
+Content Type: text/css
+
+Uri: https://bestwpware.com/wp-content/plugins/woocommerce/assets/css/woocommerce.css?ver=7.1.0
+File Name: C:\Downloaded Web Sites\gcoin.tech\wp-content\plugins\woocommerce\assets\css\woocommerce-1.css
+Content Type: text/css
+
+Uri: https://bestwpware.com/wp-content/plugins/woocommerce/assets/fonts/star.eot
+File Name: C:\Downloaded Web Sites\gcoin.tech\wp-content\plugins\woocommerce\assets\fonts\star.eot
+Content Type: application/vnd.ms-fontobject
+
+Uri: https://bestwpware.com/wp-content/plugins/woocommerce/assets/fonts/star.eot?
+File Name: C:\Downloaded Web Sites\gcoin.tech\wp-content\plugins\woocommerce\assets\fonts\star-1.eot
+Content Type: application/vnd.ms-fontobject
+
+Uri: https://bestwpware.com/wp-content/plugins/woocommerce/assets/fonts/star.svg
+File Name: C:\Downloaded Web Sites\gcoin.tech\wp-content\plugins\woocommerce\assets\fonts\star.svg
+Content Type: image/svg+xml
+
+Uri: https://bestwpware.com/wp-content/plugins/woocommerce/assets/fonts/star.ttf
+File Name: C:\Downloaded Web Sites\gcoin.tech\wp-content\plugins\woocommerce\assets\fonts\star.ttf
+Content Type: font/ttf
+
+Uri: https://bestwpware.com/wp-content/plugins/woocommerce/assets/fonts/star.woff
+File Name: C:\Downloaded Web Sites\gcoin.tech\wp-content\plugins\woocommerce\assets\fonts\star.woff
+Content Type: font/woff
+
+Uri: https://bestwpware.com/wp-content/plugins/woocommerce/assets/fonts/WooCommerce.eot
+File Name: C:\Downloaded Web Sites\gcoin.tech\wp-content\plugins\woocommerce\assets\fonts\WooCommerce.eot
+Content Type: application/vnd.ms-fontobject
+
+Uri: https://bestwpware.com/wp-content/plugins/woocommerce/assets/fonts/WooCommerce.eot?
+File Name: C:\Downloaded Web Sites\gcoin.tech\wp-content\plugins\woocommerce\assets\fonts\WooCommerce-1.eot
+Content Type: application/vnd.ms-fontobject
+
+Uri: https://bestwpware.com/wp-content/plugins/woocommerce/assets/fonts/WooCommerce.svg
+File Name: C:\Downloaded Web Sites\gcoin.tech\wp-content\plugins\woocommerce\assets\fonts\WooCommerce.svg
+Content Type: image/svg+xml
+
+Uri: https://bestwpware.com/wp-content/plugins/woocommerce/assets/fonts/WooCommerce.ttf
+File Name: C:\Downloaded Web Sites\gcoin.tech\wp-content\plugins\woocommerce\assets\fonts\WooCommerce.ttf
+Content Type: font/ttf
+
+Uri: https://bestwpware.com/wp-content/plugins/woocommerce/assets/fonts/WooCommerce.woff
+File Name: C:\Downloaded Web Sites\gcoin.tech\wp-content\plugins\woocommerce\assets\fonts\WooCommerce.woff
+Content Type: font/woff
+
+Uri: https://bestwpware.com/wp-content/plugins/woocommerce/assets/images/icons/credit-cards/amex.svg
+File Name: C:\Downloaded Web Sites\gcoin.tech\wp-content\plugins\woocommerce\assets\images\icons\credit-cards\amex.svg
+Content Type: image/svg+xml
+
+Uri: https://bestwpware.com/wp-content/plugins/woocommerce/assets/images/icons/credit-cards/diners.svg
+File Name: C:\Downloaded Web Sites\gcoin.tech\wp-content\plugins\woocommerce\assets\images\icons\credit-cards\diners.svg
+Content Type: image/svg+xml
+
+Uri: https://bestwpware.com/wp-content/plugins/woocommerce/assets/images/icons/credit-cards/discover.svg
+File Name: C:\Downloaded Web Sites\gcoin.tech\wp-content\plugins\woocommerce\assets\images\icons\credit-cards\discover.svg
+Content Type: image/svg+xml
+
+Uri: https://bestwpware.com/wp-content/plugins/woocommerce/assets/images/icons/credit-cards/jcb.svg
+File Name: C:\Downloaded Web Sites\gcoin.tech\wp-content\plugins\woocommerce\assets\images\icons\credit-cards\jcb.svg
+Content Type: image/svg+xml
+
+Uri: https://bestwpware.com/wp-content/plugins/woocommerce/assets/images/icons/credit-cards/laser.svg
+File Name: C:\Downloaded Web Sites\gcoin.tech\wp-content\plugins\woocommerce\assets\images\icons\credit-cards\laser.svg
+Content Type: image/svg+xml
+
+Uri: https://bestwpware.com/wp-content/plugins/woocommerce/assets/images/icons/credit-cards/maestro.svg
+File Name: C:\Downloaded Web Sites\gcoin.tech\wp-content\plugins\woocommerce\assets\images\icons\credit-cards\maestro.svg
+Content Type: image/svg+xml
+
+Uri: https://bestwpware.com/wp-content/plugins/woocommerce/assets/images/icons/credit-cards/mastercard.svg
+File Name: C:\Downloaded Web Sites\gcoin.tech\wp-content\plugins\woocommerce\assets\images\icons\credit-cards\mastercard.svg
+Content Type: image/svg+xml
+
+Uri: https://bestwpware.com/wp-content/plugins/woocommerce/assets/images/icons/credit-cards/visa.svg
+File Name: C:\Downloaded Web Sites\gcoin.tech\wp-content\plugins\woocommerce\assets\images\icons\credit-cards\visa.svg
+Content Type: image/svg+xml
+
+Uri: https://bestwpware.com/wp-content/plugins/woocommerce/assets/images/icons/loader.svg
+File Name: C:\Downloaded Web Sites\gcoin.tech\wp-content\plugins\woocommerce\assets\images\icons\loader.svg
+Content Type: image/svg+xml
+
+Uri: https://bestwpware.com/wp-content/plugins/woocommerce/assets/js/frontend/add-to-cart.min.js?ver=6.7.0
+File Name: C:\Downloaded Web Sites\gcoin.tech\wp-content\plugins\woocommerce\assets\js\frontend\add-to-cart.min.js
+Content Type: application/javascript
+
+Uri: https://bestwpware.com/wp-content/plugins/woocommerce/assets/js/frontend/add-to-cart.min.js?ver=7.1.0
+File Name: C:\Downloaded Web Sites\gcoin.tech\wp-content\plugins\woocommerce\assets\js\frontend\add-to-cart.min-1.js
+Content Type: application/javascript
+
+Uri: https://bestwpware.com/wp-content/plugins/woocommerce/assets/js/frontend/cart-fragments.min.js?ver=6.7.0
+File Name: C:\Downloaded Web Sites\gcoin.tech\wp-content\plugins\woocommerce\assets\js\frontend\cart-fragments.min.js
+Content Type: application/javascript
+
+Uri: https://bestwpware.com/wp-content/plugins/woocommerce/assets/js/frontend/cart-fragments.min.js?ver=7.1.0
+File Name: C:\Downloaded Web Sites\gcoin.tech\wp-content\plugins\woocommerce\assets\js\frontend\cart-fragments.min-1.js
+Content Type: application/javascript
+
+Uri: https://bestwpware.com/wp-content/plugins/woocommerce/assets/js/frontend/woocommerce.min.js?ver=6.7.0
+File Name: C:\Downloaded Web Sites\gcoin.tech\wp-content\plugins\woocommerce\assets\js\frontend\woocommerce.min.js
+Content Type: application/javascript
+
+Uri: https://bestwpware.com/wp-content/plugins/woocommerce/assets/js/frontend/woocommerce.min.js?ver=7.1.0
+File Name: C:\Downloaded Web Sites\gcoin.tech\wp-content\plugins\woocommerce\assets\js\frontend\woocommerce.min-1.js
+Content Type: application/javascript
+
+Uri: https://bestwpware.com/wp-content/plugins/woocommerce/assets/js/jquery-blockui/jquery.blockUI.min.js?ver=2.7.0-wc.6.7.0
+File Name: C:\Downloaded Web Sites\gcoin.tech\wp-content\plugins\woocommerce\assets\js\jquery-blockui\jquery.blockUI.min.js
+Content Type: application/javascript
+
+Uri: https://bestwpware.com/wp-content/plugins/woocommerce/assets/js/jquery-blockui/jquery.blockUI.min.js?ver=2.7.0-wc.7.1.0
+File Name: C:\Downloaded Web Sites\gcoin.tech\wp-content\plugins\woocommerce\assets\js\jquery-blockui\jquery.blockUI.min-1.js
+Content Type: application/javascript
+
+Uri: https://bestwpware.com/wp-content/plugins/woocommerce/assets/js/js-cookie/js.cookie.min.js?ver=2.1.4-wc.6.7.0
+File Name: C:\Downloaded Web Sites\gcoin.tech\wp-content\plugins\woocommerce\assets\js\js-cookie\js.cookie.min.js
+Content Type: application/javascript
+
+Uri: https://bestwpware.com/wp-content/plugins/woocommerce/assets/js/js-cookie/js.cookie.min.js?ver=2.1.4-wc.7.1.0
+File Name: C:\Downloaded Web Sites\gcoin.tech\wp-content\plugins\woocommerce\assets\js\js-cookie\js.cookie.min-1.js
+Content Type: application/javascript
+
+Uri: https://bestwpware.com/wp-content/plugins/woocommerce/packages/woocommerce-blocks/build/wc-blocks-style.css?ver=7.8.3
+File Name: C:\Downloaded Web Sites\gcoin.tech\wp-content\plugins\woocommerce\packages\woocommerce-blocks\build\wc-blocks-style.css
+Content Type: text/css
+
+Uri: https://bestwpware.com/wp-content/plugins/woocommerce/packages/woocommerce-blocks/build/wc-blocks-style.css?ver=8.7.5
+File Name: C:\Downloaded Web Sites\gcoin.tech\wp-content\plugins\woocommerce\packages\woocommerce-blocks\build\wc-blocks-style-1.css
+Content Type: text/css
+
+Uri: https://bestwpware.com/wp-content/plugins/woocommerce/packages/woocommerce-blocks/build/wc-blocks-vendors-style.css?ver=7.8.3
+File Name: C:\Downloaded Web Sites\gcoin.tech\wp-content\plugins\woocommerce\packages\woocommerce-blocks\build\wc-blocks-vendors-style.css
+Content Type: text/css
+
+Uri: https://bestwpware.com/wp-content/plugins/woocommerce/packages/woocommerce-blocks/build/wc-blocks-vendors-style.css?ver=8.7.5
+File Name: C:\Downloaded Web Sites\gcoin.tech\wp-content\plugins\woocommerce\packages\woocommerce-blocks\build\wc-blocks-vendors-style-1.css
+Content Type: text/css
+
+Uri: https://bestwpware.com/wp-content/themes/themebox/assets/css/default.css?ver=6.0.1
+File Name: C:\Downloaded Web Sites\gcoin.tech\wp-content\themes\themebox\assets\css\default.css
+Content Type: text/css
+
+Uri: https://bestwpware.com/wp-content/themes/themebox/assets/css/default.css?ver=6.1.1
+File Name: C:\Downloaded Web Sites\gcoin.tech\wp-content\themes\themebox\assets\css\default-1.css
+Content Type: text/css
+
+Uri: https://bestwpware.com/wp-content/themes/themebox/assets/css/inc/awesome-bootstrap-checkbox.css
+File Name: C:\Downloaded Web Sites\gcoin.tech\wp-content\themes\themebox\assets\css\inc\awesome-bootstrap-checkbox.css
+Content Type: text/css
+
+Uri: https://bestwpware.com/wp-content/themes/themebox/assets/fonts/uni_sans_heavy-webfont.css
+File Name: C:\Downloaded Web Sites\gcoin.tech\wp-content\themes\themebox\assets\fonts\uni_sans_heavy-webfont.css
+Content Type: text/css
+
+Uri: https://bestwpware.com/wp-content/themes/themebox/assets/fonts/uni_sans_heavy-webfont.woff
+File Name: C:\Downloaded Web Sites\gcoin.tech\wp-content\themes\themebox\assets\fonts\uni_sans_heavy-webfont.woff
+Content Type: font/woff
+
+Uri: https://bestwpware.com/wp-content/themes/themebox/assets/fonts/uni_sans_heavy-webfont.woff2
+File Name: C:\Downloaded Web Sites\gcoin.tech\wp-content\themes\themebox\assets\fonts\uni_sans_heavy-webfont.woff2
+Content Type: font/woff2
+
+Uri: https://bestwpware.com/wp-content/themes/themebox/assets/img/image-error-404.jpg
+File Name: C:\Downloaded Web Sites\gcoin.tech\wp-content\themes\themebox\assets\img\image-error-404.jpg
+Content Type: image/jpeg
+
+Uri: https://bestwpware.com/wp-content/themes/themebox/assets/js/ajaxGetTemplate.js?ver=6.0.1
+File Name: C:\Downloaded Web Sites\gcoin.tech\wp-content\themes\themebox\assets\js\ajaxGetTemplate.js
+Content Type: application/javascript
+
+Uri: https://bestwpware.com/wp-content/themes/themebox/assets/js/ajaxGetTemplate.js?ver=6.1.1
+File Name: C:\Downloaded Web Sites\gcoin.tech\wp-content\themes\themebox\assets\js\ajaxGetTemplate-1.js
+Content Type: application/javascript
+
+Uri: https://bestwpware.com/wp-content/themes/themebox/assets/js/theme.js?ver=6.0.1
+File Name: C:\Downloaded Web Sites\gcoin.tech\wp-content\themes\themebox\assets\js\theme.js
+Content Type: application/javascript
+
+Uri: https://bestwpware.com/wp-content/themes/themebox/assets/js/theme.js?ver=6.1.1
+File Name: C:\Downloaded Web Sites\gcoin.tech\wp-content\themes\themebox\assets\js\theme-1.js
+Content Type: application/javascript
+
+Uri: https://bestwpware.com/wp-content/themes/themebox/assets/plugins/animate/animate.min.css?ver=6.0.1
+File Name: C:\Downloaded Web Sites\gcoin.tech\wp-content\themes\themebox\assets\plugins\animate\animate.min.css
+Content Type: text/css
+
+Uri: https://bestwpware.com/wp-content/themes/themebox/assets/plugins/animate/animate.min.css?ver=6.1.1
+File Name: C:\Downloaded Web Sites\gcoin.tech\wp-content\themes\themebox\assets\plugins\animate\animate.min-1.css
+Content Type: text/css
+
+Uri: https://bestwpware.com/wp-content/themes/themebox/assets/plugins/bootstrap-select/css/bootstrap-select.min.css?ver=6.0.1
+File Name: C:\Downloaded Web Sites\gcoin.tech\wp-content\themes\themebox\assets\plugins\bootstrap-select\css\bootstrap-select.min.css
+Content Type: text/css
+
+Uri: https://bestwpware.com/wp-content/themes/themebox/assets/plugins/bootstrap-select/css/bootstrap-select.min.css?ver=6.1.1
+File Name: C:\Downloaded Web Sites\gcoin.tech\wp-content\themes\themebox\assets\plugins\bootstrap-select\css\bootstrap-select.min-1.css
+Content Type: text/css
+
+Uri: https://bestwpware.com/wp-content/themes/themebox/assets/plugins/bootstrap-select/js/bootstrap-select.min.js?ver=6.0.1
+File Name: C:\Downloaded Web Sites\gcoin.tech\wp-content\themes\themebox\assets\plugins\bootstrap-select\js\bootstrap-select.min.js
+Content Type: application/javascript
+
+Uri: https://bestwpware.com/wp-content/themes/themebox/assets/plugins/bootstrap-select/js/bootstrap-select.min.js?ver=6.1.1
+File Name: C:\Downloaded Web Sites\gcoin.tech\wp-content\themes\themebox\assets\plugins\bootstrap-select\js\bootstrap-select.min-1.js
+Content Type: application/javascript
+
+Uri: https://bestwpware.com/wp-content/themes/themebox/assets/plugins/bootstrap/css/bootstrap.min.css?ver=6.0.1
+File Name: C:\Downloaded Web Sites\gcoin.tech\wp-content\themes\themebox\assets\plugins\bootstrap\css\bootstrap.min.css
+Content Type: text/css
+
+Uri: https://bestwpware.com/wp-content/themes/themebox/assets/plugins/bootstrap/css/bootstrap.min.css?ver=6.1.1
+File Name: C:\Downloaded Web Sites\gcoin.tech\wp-content\themes\themebox\assets\plugins\bootstrap\css\bootstrap.min-1.css
+Content Type: text/css
+
+Uri: https://bestwpware.com/wp-content/themes/themebox/assets/plugins/bootstrap/fonts/glyphicons-halflings-regular.eot
+File Name: C:\Downloaded Web Sites\gcoin.tech\wp-content\themes\themebox\assets\plugins\bootstrap\fonts\glyphicons-halflings-regular.eot
+Content Type: application/vnd.ms-fontobject
+
+Uri: https://bestwpware.com/wp-content/themes/themebox/assets/plugins/bootstrap/fonts/glyphicons-halflings-regular.eot?
+File Name: C:\Downloaded Web Sites\gcoin.tech\wp-content\themes\themebox\assets\plugins\bootstrap\fonts\glyphicons-halflings-regular-1.eot
+Content Type: application/vnd.ms-fontobject
+
+Uri: https://bestwpware.com/wp-content/themes/themebox/assets/plugins/bootstrap/fonts/glyphicons-halflings-regular.svg
+File Name: C:\Downloaded Web Sites\gcoin.tech\wp-content\themes\themebox\assets\plugins\bootstrap\fonts\glyphicons-halflings-regular.svg
+Content Type: image/svg+xml
+
+Uri: https://bestwpware.com/wp-content/themes/themebox/assets/plugins/bootstrap/fonts/glyphicons-halflings-regular.ttf
+File Name: C:\Downloaded Web Sites\gcoin.tech\wp-content\themes\themebox\assets\plugins\bootstrap\fonts\glyphicons-halflings-regular.ttf
+Content Type: font/ttf
+
+Uri: https://bestwpware.com/wp-content/themes/themebox/assets/plugins/bootstrap/fonts/glyphicons-halflings-regular.woff
+File Name: C:\Downloaded Web Sites\gcoin.tech\wp-content\themes\themebox\assets\plugins\bootstrap\fonts\glyphicons-halflings-regular.woff
+Content Type: font/woff
+
+Uri: https://bestwpware.com/wp-content/themes/themebox/assets/plugins/bootstrap/fonts/glyphicons-halflings-regular.woff2
+File Name: C:\Downloaded Web Sites\gcoin.tech\wp-content\themes\themebox\assets\plugins\bootstrap\fonts\glyphicons-halflings-regular.woff2
+Content Type: font/woff2
+
+Uri: https://bestwpware.com/wp-content/themes/themebox/assets/plugins/bootstrap/js/bootstrap.min.js?ver=6.0.1
+File Name: C:\Downloaded Web Sites\gcoin.tech\wp-content\themes\themebox\assets\plugins\bootstrap\js\bootstrap.min.js
+Content Type: application/javascript
+
+Uri: https://bestwpware.com/wp-content/themes/themebox/assets/plugins/bootstrap/js/bootstrap.min.js?ver=6.1.1
+File Name: C:\Downloaded Web Sites\gcoin.tech\wp-content\themes\themebox\assets\plugins\bootstrap\js\bootstrap.min-1.js
+Content Type: application/javascript
+
+Uri: https://bestwpware.com/wp-content/themes/themebox/assets/plugins/fontawesome/css/font-awesome.min.css?ver=6.0.1
+File Name: C:\Downloaded Web Sites\gcoin.tech\wp-content\themes\themebox\assets\plugins\fontawesome\css\font-awesome.min.css
+Content Type: text/css
+
+Uri: https://bestwpware.com/wp-content/themes/themebox/assets/plugins/fontawesome/css/font-awesome.min.css?ver=6.1.1
+File Name: C:\Downloaded Web Sites\gcoin.tech\wp-content\themes\themebox\assets\plugins\fontawesome\css\font-awesome.min-1.css
+Content Type: text/css
+
+Uri: https://bestwpware.com/wp-content/themes/themebox/assets/plugins/fontawesome/fonts/fontawesome-webfont.eot?
+File Name: C:\Downloaded Web Sites\gcoin.tech\wp-content\themes\themebox\assets\plugins\fontawesome\fonts\fontawesome-webfont-1.eot
+Content Type: application/vnd.ms-fontobject
+
+Uri: https://bestwpware.com/wp-content/themes/themebox/assets/plugins/fontawesome/fonts/fontawesome-webfont.eot?v=4.7.0
+File Name: C:\Downloaded Web Sites\gcoin.tech\wp-content\themes\themebox\assets\plugins\fontawesome\fonts\fontawesome-webfont.eot
+Content Type: application/vnd.ms-fontobject
+
+Uri: https://bestwpware.com/wp-content/themes/themebox/assets/plugins/fontawesome/fonts/fontawesome-webfont.svg?v=4.7.0
+File Name: C:\Downloaded Web Sites\gcoin.tech\wp-content\themes\themebox\assets\plugins\fontawesome\fonts\fontawesome-webfont.svg
+Content Type: image/svg+xml
+
+Uri: https://bestwpware.com/wp-content/themes/themebox/assets/plugins/fontawesome/fonts/fontawesome-webfont.ttf?v=4.7.0
+File Name: C:\Downloaded Web Sites\gcoin.tech\wp-content\themes\themebox\assets\plugins\fontawesome\fonts\fontawesome-webfont.ttf
+Content Type: font/ttf
+
+Uri: https://bestwpware.com/wp-content/themes/themebox/assets/plugins/fontawesome/fonts/fontawesome-webfont.woff2?v=4.7.0
+File Name: C:\Downloaded Web Sites\gcoin.tech\wp-content\themes\themebox\assets\plugins\fontawesome\fonts\fontawesome-webfont.woff2
+Content Type: font/woff2
+
+Uri: https://bestwpware.com/wp-content/themes/themebox/assets/plugins/fontawesome/fonts/fontawesome-webfont.woff?v=4.7.0
+File Name: C:\Downloaded Web Sites\gcoin.tech\wp-content\themes\themebox\assets\plugins\fontawesome\fonts\fontawesome-webfont.woff
+Content Type: font/woff
+
+Uri: https://bestwpware.com/wp-content/themes/themebox/assets/plugins/jquery.easing.min.js?ver=6.0.1
+File Name: C:\Downloaded Web Sites\gcoin.tech\wp-content\themes\themebox\assets\plugins\jquery.easing.min.js
+Content Type: application/javascript
+
+Uri: https://bestwpware.com/wp-content/themes/themebox/assets/plugins/jquery.easing.min.js?ver=6.1.1
+File Name: C:\Downloaded Web Sites\gcoin.tech\wp-content\themes\themebox\assets\plugins\jquery.easing.min-1.js
+Content Type: application/javascript
+
+Uri: https://bestwpware.com/wp-content/themes/themebox/assets/plugins/jquery.sticky.min.js?ver=6.0.1
+File Name: C:\Downloaded Web Sites\gcoin.tech\wp-content\themes\themebox\assets\plugins\jquery.sticky.min.js
+Content Type: application/javascript
+
+Uri: https://bestwpware.com/wp-content/themes/themebox/assets/plugins/jquery.sticky.min.js?ver=6.1.1
+File Name: C:\Downloaded Web Sites\gcoin.tech\wp-content\themes\themebox\assets\plugins\jquery.sticky.min-1.js
+Content Type: application/javascript
+
+Uri: https://bestwpware.com/wp-content/themes/themebox/assets/plugins/magnific-popup/jquery.magnific-popup.min.js?ver=6.0.1
+File Name: C:\Downloaded Web Sites\gcoin.tech\wp-content\themes\themebox\assets\plugins\magnific-popup\jquery.magnific-popup.min.js
+Content Type: application/javascript
+
+Uri: https://bestwpware.com/wp-content/themes/themebox/assets/plugins/magnific-popup/jquery.magnific-popup.min.js?ver=6.1.1
+File Name: C:\Downloaded Web Sites\gcoin.tech\wp-content\themes\themebox\assets\plugins\magnific-popup\jquery.magnific-popup.min-1.js
+Content Type: application/javascript
+
+Uri: https://bestwpware.com/wp-content/themes/themebox/assets/plugins/magnific-popup/style-magnific-popup.css?ver=6.0.1
+File Name: C:\Downloaded Web Sites\gcoin.tech\wp-content\themes\themebox\assets\plugins\magnific-popup\style-magnific-popup.css
+Content Type: text/css
+
+Uri: https://bestwpware.com/wp-content/themes/themebox/assets/plugins/magnific-popup/style-magnific-popup.css?ver=6.1.1
+File Name: C:\Downloaded Web Sites\gcoin.tech\wp-content\themes\themebox\assets\plugins\magnific-popup\style-magnific-popup-1.css
+Content Type: text/css
+
+Uri: https://bestwpware.com/wp-content/themes/themebox/assets/plugins/modernizr.custom.js?ver=6.0.1
+File Name: C:\Downloaded Web Sites\gcoin.tech\wp-content\themes\themebox\assets\plugins\modernizr.custom.js
+Content Type: application/javascript
+
+Uri: https://bestwpware.com/wp-content/themes/themebox/assets/plugins/modernizr.custom.js?ver=6.1.1
+File Name: C:\Downloaded Web Sites\gcoin.tech\wp-content\themes\themebox\assets\plugins\modernizr.custom-1.js
+Content Type: application/javascript
+
+Uri: https://bestwpware.com/wp-content/themes/themebox/assets/plugins/owl-carousel2/assets/owl.carousel.min.css?ver=6.0.1
+File Name: C:\Downloaded Web Sites\gcoin.tech\wp-content\themes\themebox\assets\plugins\owl-carousel2\assets\owl.carousel.min.css
+Content Type: text/css
+
+Uri: https://bestwpware.com/wp-content/themes/themebox/assets/plugins/owl-carousel2/assets/owl.carousel.min.css?ver=6.1.1
+File Name: C:\Downloaded Web Sites\gcoin.tech\wp-content\themes\themebox\assets\plugins\owl-carousel2\assets\owl.carousel.min-1.css
+Content Type: text/css
+
+Uri: https://bestwpware.com/wp-content/themes/themebox/assets/plugins/owl-carousel2/assets/owl.theme.default.min.css?ver=6.0.1
+File Name: C:\Downloaded Web Sites\gcoin.tech\wp-content\themes\themebox\assets\plugins\owl-carousel2\assets\owl.theme.default.min.css
+Content Type: text/css
+
+Uri: https://bestwpware.com/wp-content/themes/themebox/assets/plugins/owl-carousel2/assets/owl.theme.default.min.css?ver=6.1.1
+File Name: C:\Downloaded Web Sites\gcoin.tech\wp-content\themes\themebox\assets\plugins\owl-carousel2\assets\owl.theme.default.min-1.css
+Content Type: text/css
+
+Uri: https://bestwpware.com/wp-content/themes/themebox/assets/plugins/owl-carousel2/assets/owl.video.play.png
+File Name: C:\Downloaded Web Sites\gcoin.tech\wp-content\themes\themebox\assets\plugins\owl-carousel2\assets\owl.video.play.png
+Content Type: image/png
+
+Uri: https://bestwpware.com/wp-content/themes/themebox/assets/plugins/owl-carousel2/owl.carousel.min.js?ver=6.0.1
+File Name: C:\Downloaded Web Sites\gcoin.tech\wp-content\themes\themebox\assets\plugins\owl-carousel2\owl.carousel.min.js
+Content Type: application/javascript
+
+Uri: https://bestwpware.com/wp-content/themes/themebox/assets/plugins/owl-carousel2/owl.carousel.min.js?ver=6.1.1
+File Name: C:\Downloaded Web Sites\gcoin.tech\wp-content\themes\themebox\assets\plugins\owl-carousel2\owl.carousel.min-1.js
+Content Type: application/javascript
+
+Uri: https://bestwpware.com/wp-content/themes/themebox/assets/plugins/superfish/js/superfish.min.js?ver=6.0.1
+File Name: C:\Downloaded Web Sites\gcoin.tech\wp-content\themes\themebox\assets\plugins\superfish\js\superfish.min.js
+Content Type: application/javascript
+
+Uri: https://bestwpware.com/wp-content/themes/themebox/assets/plugins/superfish/js/superfish.min.js?ver=6.1.1
+File Name: C:\Downloaded Web Sites\gcoin.tech\wp-content\themes\themebox\assets\plugins\superfish\js\superfish.min-1.js
+Content Type: application/javascript
+
+Uri: https://bestwpware.com/wp-content/themes/themebox/assets/plugins/swiper/js/swiper.jquery.min.js?ver=6.0.1
+File Name: C:\Downloaded Web Sites\gcoin.tech\wp-content\themes\themebox\assets\plugins\swiper\js\swiper.jquery.min.js
+Content Type: application/javascript
+
+Uri: https://bestwpware.com/wp-content/themes/themebox/assets/plugins/swiper/js/swiper.jquery.min.js?ver=6.1.1
+File Name: C:\Downloaded Web Sites\gcoin.tech\wp-content\themes\themebox\assets\plugins\swiper\js\swiper.jquery.min-1.js
+Content Type: application/javascript
+
+Uri: https://bestwpware.com/wp-content/themes/themebox/assets/plugins/waypoints/waypoints.min.js?ver=6.0.1
+File Name: C:\Downloaded Web Sites\gcoin.tech\wp-content\themes\themebox\assets\plugins\waypoints\waypoints.min.js
+Content Type: application/javascript
+
+Uri: https://bestwpware.com/wp-content/themes/themebox/assets/plugins/waypoints/waypoints.min.js?ver=6.1.1
+File Name: C:\Downloaded Web Sites\gcoin.tech\wp-content\themes\themebox\assets\plugins\waypoints\waypoints.min-1.js
+Content Type: application/javascript
+
+Uri: https://bestwpware.com/wp-content/themes/themebox/style.css?ver=themebox
+File Name: C:\Downloaded Web Sites\gcoin.tech\wp-content\themes\themebox\style.css
+Content Type: text/css
+
+Uri: https://bestwpware.com/wp-content/uploads/2021/08/footer-logo-300x82.png
+File Name: C:\Downloaded Web Sites\gcoin.tech\wp-content\uploads\2021\08\footer-logo-300x82.png
+Content Type: image/png
+
+Uri: https://bestwpware.com/wp-content/uploads/2021/08/footer-logo.png
+File Name: C:\Downloaded Web Sites\gcoin.tech\wp-content\uploads\2021\08\footer-logo.png
+Content Type: image/png
+
+Uri: https://bestwpware.com/wp-content/uploads/2021/08/wp-logo.png
+File Name: C:\Downloaded Web Sites\gcoin.tech\wp-content\uploads\2021\08\wp-logo.png
+Content Type: image/png
+
+Uri: https://bestwpware.com/wp-includes/css/classic-themes.min.css?ver=1
+File Name: C:\Downloaded Web Sites\gcoin.tech\wp-includes\css\classic-themes.min.css
+Content Type: text/css
+
+Uri: https://bestwpware.com/wp-includes/css/dashicons.min.css
+File Name: C:\Downloaded Web Sites\gcoin.tech\wp-includes\css\dashicons.min.css
+Content Type: text/css
+
+Uri: https://bestwpware.com/wp-includes/css/dist/block-library/style.min.css?ver=6.0.1
+File Name: C:\Downloaded Web Sites\gcoin.tech\wp-includes\css\dist\block-library\style.min.css
+Content Type: text/css
+
+Uri: https://bestwpware.com/wp-includes/css/dist/block-library/style.min.css?ver=6.1.1
+File Name: C:\Downloaded Web Sites\gcoin.tech\wp-includes\css\dist\block-library\style.min-1.css
+Content Type: text/css
+
+Uri: https://bestwpware.com/wp-includes/fonts/dashicons.eot?99ac726223c749443b642ce33df8b800
+File Name: C:\Downloaded Web Sites\gcoin.tech\wp-includes\fonts\dashicons.eot
+Content Type: application/vnd.ms-fontobject
+
+Uri: https://bestwpware.com/wp-includes/fonts/dashicons.ttf?99ac726223c749443b642ce33df8b800
+File Name: C:\Downloaded Web Sites\gcoin.tech\wp-includes\fonts\dashicons.ttf
+Content Type: font/ttf
+
+Uri: https://bestwpware.com/wp-includes/js/dist/vendor/regenerator-runtime.min.js?ver=0.13.9
+File Name: C:\Downloaded Web Sites\gcoin.tech\wp-includes\js\dist\vendor\regenerator-runtime.min.js
+Content Type: application/javascript
+
+Uri: https://bestwpware.com/wp-includes/js/dist/vendor/wp-polyfill.min.js?ver=3.15.0
+File Name: C:\Downloaded Web Sites\gcoin.tech\wp-includes\js\dist\vendor\wp-polyfill.min.js
+Content Type: application/javascript
+
+Uri: https://bestwpware.com/wp-includes/js/jquery/jquery-migrate.min.js?ver=3.3.2
+File Name: C:\Downloaded Web Sites\gcoin.tech\wp-includes\js\jquery\jquery-migrate.min.js
+Content Type: application/javascript
+
+Uri: https://bestwpware.com/wp-includes/js/jquery/jquery.min.js?ver=3.6.0
+File Name: C:\Downloaded Web Sites\gcoin.tech\wp-includes\js\jquery\jquery.min.js
+Content Type: application/javascript
+
+Uri: https://bestwpware.com/wp-includes/js/jquery/jquery.min.js?ver=3.6.1
+File Name: C:\Downloaded Web Sites\gcoin.tech\wp-includes\js\jquery\jquery.min-1.js
+Content Type: application/javascript
+
+Uri: https://bestwpware.com/wp-includes/js/mediaelement/mediaelementplayer-legacy.min.css?ver=4.2.17
+File Name: C:\Downloaded Web Sites\gcoin.tech\wp-includes\js\mediaelement\mediaelementplayer-legacy.min.css
+Content Type: text/css
+
+Uri: https://bestwpware.com/wp-includes/js/mediaelement/mejs-controls.svg
+File Name: C:\Downloaded Web Sites\gcoin.tech\wp-includes\js\mediaelement\mejs-controls.svg
+Content Type: image/svg+xml
+
+Uri: https://bestwpware.com/wp-includes/js/mediaelement/wp-mediaelement.min.css?ver=6.1.1
+File Name: C:\Downloaded Web Sites\gcoin.tech\wp-includes\js\mediaelement\wp-mediaelement.min.css
+Content Type: text/css
+
+Uri: https://bestwpware.com/wp-includes/wlwmanifest.xml
+File Name: C:\Downloaded Web Sites\gcoin.tech\wp-includes\wlwmanifest.xml
+Content Type: application/xml
+
+Uri: https://bestwpware.com/wp-json/
+File Name: C:\Downloaded Web Sites\gcoin.tech\wp-json\index.htm
+Content Type: application/json
+
+Uri: https://bestwpware.com/xmlrpc.php?rsd
+File Name: C:\Downloaded Web Sites\gcoin.tech\xmlrpc.php
+Content Type: text/xml
+
+Uri: https://cdnjs.cloudflare.com/ajax/libs/wow/1.1.2/wow.min.js
+File Name: C:\Downloaded Web Sites\gcoin.tech\ajax\libs\wow\1.1.2\wow.min.js
+Content Type: application/javascript
+
+Uri: https://code.jquery.com/jquery-2.2.4.min.js
+File Name: C:\Downloaded Web Sites\gcoin.tech\jquery-2.2.4.min.js
+Content Type: application/javascript
+
+Uri: https://fonts.googleapis.com/css?family=Poppins:100%2C200%2C300%2C400%2C500%2C600%2C700%2C800%2C900"|Poppins:100%2C200%2C300%2C400%2C500%2C600%2C700%2C800%2C900&subset=latin%2Clatin-ext
+File Name: C:\Downloaded Web Sites\gcoin.tech\css-1
+Content Type: text/css
+
+Uri: https://fonts.googleapis.com/css?family=Quicksand:300,400,500,600,700&display=swap&subset=latin-ext
+File Name: C:\Downloaded Web Sites\gcoin.tech\css
+Content Type: text/css
+
+Uri: https://fonts.gstatic.com/s/poppins/v20/pxiByp8kv8JHgFVrLBT5Z1JlEA.ttf
+File Name: C:\Downloaded Web Sites\gcoin.tech\s\poppins\v20\pxiByp8kv8JHgFVrLBT5Z1JlEA.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/poppins/v20/pxiByp8kv8JHgFVrLCz7Z1JlEA.ttf
+File Name: C:\Downloaded Web Sites\gcoin.tech\s\poppins\v20\pxiByp8kv8JHgFVrLCz7Z1JlEA.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/poppins/v20/pxiByp8kv8JHgFVrLDD4Z1JlEA.ttf
+File Name: C:\Downloaded Web Sites\gcoin.tech\s\poppins\v20\pxiByp8kv8JHgFVrLDD4Z1JlEA.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/poppins/v20/pxiByp8kv8JHgFVrLDz8Z1JlEA.ttf
+File Name: C:\Downloaded Web Sites\gcoin.tech\s\poppins\v20\pxiByp8kv8JHgFVrLDz8Z1JlEA.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/poppins/v20/pxiByp8kv8JHgFVrLEj6Z1JlEA.ttf
+File Name: C:\Downloaded Web Sites\gcoin.tech\s\poppins\v20\pxiByp8kv8JHgFVrLEj6Z1JlEA.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/poppins/v20/pxiByp8kv8JHgFVrLFj_Z1JlEA.ttf
+File Name: C:\Downloaded Web Sites\gcoin.tech\s\poppins\v20\pxiByp8kv8JHgFVrLFj_Z1JlEA.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/poppins/v20/pxiByp8kv8JHgFVrLGT9Z1JlEA.ttf
+File Name: C:\Downloaded Web Sites\gcoin.tech\s\poppins\v20\pxiByp8kv8JHgFVrLGT9Z1JlEA.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/poppins/v20/pxiEyp8kv8JHgFVrJJnedw.ttf
+File Name: C:\Downloaded Web Sites\gcoin.tech\s\poppins\v20\pxiEyp8kv8JHgFVrJJnedw.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/poppins/v20/pxiGyp8kv8JHgFVrLPTufntF.ttf
+File Name: C:\Downloaded Web Sites\gcoin.tech\s\poppins\v20\pxiGyp8kv8JHgFVrLPTufntF.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/quicksand/v30/6xK-dSZaM9iE8KbpRA_LJ3z8mH9BOJvgkBgv58i-xw.ttf
+File Name: C:\Downloaded Web Sites\gcoin.tech\s\quicksand\v30\6xK-dSZaM9iE8KbpRA_LJ3z8mH9BOJvgkBgv58i-xw.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/quicksand/v30/6xK-dSZaM9iE8KbpRA_LJ3z8mH9BOJvgkCEv58i-xw.ttf
+File Name: C:\Downloaded Web Sites\gcoin.tech\s\quicksand\v30\6xK-dSZaM9iE8KbpRA_LJ3z8mH9BOJvgkCEv58i-xw.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/quicksand/v30/6xK-dSZaM9iE8KbpRA_LJ3z8mH9BOJvgkKEo58i-xw.ttf
+File Name: C:\Downloaded Web Sites\gcoin.tech\s\quicksand\v30\6xK-dSZaM9iE8KbpRA_LJ3z8mH9BOJvgkKEo58i-xw.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/quicksand/v30/6xK-dSZaM9iE8KbpRA_LJ3z8mH9BOJvgkM0o58i-xw.ttf
+File Name: C:\Downloaded Web Sites\gcoin.tech\s\quicksand\v30\6xK-dSZaM9iE8KbpRA_LJ3z8mH9BOJvgkM0o58i-xw.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/quicksand/v30/6xK-dSZaM9iE8KbpRA_LJ3z8mH9BOJvgkP8o58i-xw.ttf
+File Name: C:\Downloaded Web Sites\gcoin.tech\s\quicksand\v30\6xK-dSZaM9iE8KbpRA_LJ3z8mH9BOJvgkP8o58i-xw.ttf
+Content Type: font/ttf
+
+Uri: https://gcoin.tech/
+File Name: C:\Downloaded Web Sites\gcoin.tech\index.htm
+Content Type: text/html
+
+Uri: https://gcoin.tech/Disclaimer
+File Name: C:\Downloaded Web Sites\gcoin.tech\Disclaimer.html
+Content Type: text/html
+
+Uri: https://gcoin.tech/Exchange
+File Name: C:\Downloaded Web Sites\gcoin.tech\Exchange.html
+Content Type: text/html
+
+Uri: https://gcoin.tech/Privacy-Policy
+File Name: C:\Downloaded Web Sites\gcoin.tech\Privacy-Policy.html
+Content Type: text/html
+
+Uri: https://gcoin.tech/public/favicon.png
+File Name: C:\Downloaded Web Sites\gcoin.tech\public\favicon.png
+Content Type: image/png
+
+Uri: https://gcoin.tech/public/front/assets/bootstrap/css/bootstrap.min.css
+File Name: C:\Downloaded Web Sites\gcoin.tech\public\front\assets\bootstrap\css\bootstrap.min.css
+Content Type: text/css
+
+Uri: https://gcoin.tech/public/front/assets/bootstrap/js/bootstrap.min.js
+File Name: C:\Downloaded Web Sites\gcoin.tech\public\front\assets\bootstrap\js\bootstrap.min.js
+Content Type: application/javascript
+
+Uri: https://gcoin.tech/public/front/assets/css/animate.css
+File Name: C:\Downloaded Web Sites\gcoin.tech\public\front\assets\css\animate.css
+Content Type: text/css
+
+Uri: https://gcoin.tech/public/front/assets/css/magnific-popup.css
+File Name: C:\Downloaded Web Sites\gcoin.tech\public\front\assets\css\magnific-popup.css
+Content Type: text/css
+
+Uri: https://gcoin.tech/public/front/assets/css/materialdesignicons-min.css
+File Name: C:\Downloaded Web Sites\gcoin.tech\public\front\assets\css\materialdesignicons-min.css
+Content Type: text/css
+
+Uri: https://gcoin.tech/public/front/assets/css/style-two.css
+File Name: C:\Downloaded Web Sites\gcoin.tech\public\front\assets\css\style-two.css
+Content Type: text/css
+
+Uri: https://gcoin.tech/public/front/assets/fonts/font-awesome.min.css
+File Name: C:\Downloaded Web Sites\gcoin.tech\public\front\assets\fonts\font-awesome.min.css
+Content Type: text/css
+
+Uri: https://gcoin.tech/public/front/assets/fonts/fontawesome-webfont3295.eot?v=4.5.0
+File Name: C:\Downloaded Web Sites\gcoin.tech\public\front\assets\fonts\fontawesome-webfont3295.eot
+Content Type: application/vnd.ms-fontobject
+
+Uri: https://gcoin.tech/public/front/assets/fonts/fontawesome-webfont3295.svg?v=4.5.0
+File Name: C:\Downloaded Web Sites\gcoin.tech\public\front\assets\fonts\fontawesome-webfont3295.svg
+Content Type: image/svg+xml
+
+Uri: https://gcoin.tech/public/front/assets/fonts/fontawesome-webfont3295.ttf?v=4.5.0
+File Name: C:\Downloaded Web Sites\gcoin.tech\public\front\assets\fonts\fontawesome-webfont3295.ttf
+Content Type: font/ttf
+
+Uri: https://gcoin.tech/public/front/assets/fonts/fontawesome-webfont3295.woff2?v=4.5.0
+File Name: C:\Downloaded Web Sites\gcoin.tech\public\front\assets\fonts\fontawesome-webfont3295.woff2
+Content Type: font/woff2
+
+Uri: https://gcoin.tech/public/front/assets/fonts/fontawesome-webfont3295.woff?v=4.5.0
+File Name: C:\Downloaded Web Sites\gcoin.tech\public\front\assets\fonts\fontawesome-webfont3295.woff
+Content Type: font/woff
+
+Uri: https://gcoin.tech/public/front/assets/fonts/fontawesome-webfontd41d.eot?
+File Name: C:\Downloaded Web Sites\gcoin.tech\public\front\assets\fonts\fontawesome-webfontd41d.eot
+Content Type: application/vnd.ms-fontobject
+
+Uri: https://gcoin.tech/public/front/assets/fonts/materialdesignicons-webfontb1c3.eot?v=5.3.45
+File Name: C:\Downloaded Web Sites\gcoin.tech\public\front\assets\fonts\materialdesignicons-webfontb1c3.eot
+Content Type: application/vnd.ms-fontobject
+
+Uri: https://gcoin.tech/public/front/assets/fonts/materialdesignicons-webfontb1c3.ttf?v=5.3.45
+File Name: C:\Downloaded Web Sites\gcoin.tech\public\front\assets\fonts\materialdesignicons-webfontb1c3.ttf
+Content Type: font/ttf
+
+Uri: https://gcoin.tech/public/front/assets/fonts/materialdesignicons-webfontb1c3.woff2?v=5.3.45
+File Name: C:\Downloaded Web Sites\gcoin.tech\public\front\assets\fonts\materialdesignicons-webfontb1c3.woff2
+Content Type: font/woff2
+
+Uri: https://gcoin.tech/public/front/assets/fonts/materialdesignicons-webfontb1c3.woff?v=5.3.45
+File Name: C:\Downloaded Web Sites\gcoin.tech\public\front\assets\fonts\materialdesignicons-webfontb1c3.woff
+Content Type: font/woff
+
+Uri: https://gcoin.tech/public/front/assets/fonts/materialdesignicons-webfontd41d.eot?
+File Name: C:\Downloaded Web Sites\gcoin.tech\public\front\assets\fonts\materialdesignicons-webfontd41d.eot
+Content Type: application/vnd.ms-fontobject
+
+Uri: https://gcoin.tech/public/front/assets/fonts/themify-icons.css
+File Name: C:\Downloaded Web Sites\gcoin.tech\public\front\assets\fonts\themify-icons.css
+Content Type: text/css
+
+Uri: https://gcoin.tech/public/front/assets/fonts/themify9f24.eot?-fvbane
+File Name: C:\Downloaded Web Sites\gcoin.tech\public\front\assets\fonts\themify9f24.eot
+Content Type: application/vnd.ms-fontobject
+
+Uri: https://gcoin.tech/public/front/assets/fonts/themify9f24.svg?-fvbane
+File Name: C:\Downloaded Web Sites\gcoin.tech\public\front\assets\fonts\themify9f24.svg
+Content Type: image/svg+xml
+
+Uri: https://gcoin.tech/public/front/assets/fonts/themify9f24.ttf?-fvbane
+File Name: C:\Downloaded Web Sites\gcoin.tech\public\front\assets\fonts\themify9f24.ttf
+Content Type: font/ttf
+
+Uri: https://gcoin.tech/public/front/assets/fonts/themify9f24.woff?-fvbane
+File Name: C:\Downloaded Web Sites\gcoin.tech\public\front\assets\fonts\themify9f24.woff
+Content Type: font/woff
+
+Uri: https://gcoin.tech/public/front/assets/fonts/themifyd41d.eot?
+File Name: C:\Downloaded Web Sites\gcoin.tech\public\front\assets\fonts\themifyd41d.eot
+Content Type: application/vnd.ms-fontobject
+
+Uri: https://gcoin.tech/public/front/assets/img/01-Chat.png
+File Name: C:\Downloaded Web Sites\gcoin.tech\public\front\assets\img\01-Chat.png
+Content Type: image/png
+
+Uri: https://gcoin.tech/public/front/assets/img/02-Chat.png
+File Name: C:\Downloaded Web Sites\gcoin.tech\public\front\assets\img\02-Chat.png
+Content Type: image/png
+
+Uri: https://gcoin.tech/public/front/assets/img/about-one.png
+File Name: C:\Downloaded Web Sites\gcoin.tech\public\front\assets\img\about-one.png
+Content Type: image/png
+
+Uri: https://gcoin.tech/public/front/assets/img/about-two.png
+File Name: C:\Downloaded Web Sites\gcoin.tech\public\front\assets\img\about-two.png
+Content Type: image/png
+
+Uri: https://gcoin.tech/public/front/assets/img/faq.png
+File Name: C:\Downloaded Web Sites\gcoin.tech\public\front\assets\img\faq.png
+Content Type: image/png
+
+Uri: https://gcoin.tech/public/front/assets/img/icon/bank2.png
+File Name: C:\Downloaded Web Sites\gcoin.tech\public\front\assets\img\icon\bank2.png
+Content Type: image/png
+
+Uri: https://gcoin.tech/public/front/assets/img/icon/buy.png
+File Name: C:\Downloaded Web Sites\gcoin.tech\public\front\assets\img\icon\buy.png
+Content Type: image/png
+
+Uri: https://gcoin.tech/public/front/assets/img/icon/cash.png
+File Name: C:\Downloaded Web Sites\gcoin.tech\public\front\assets\img\icon\cash.png
+Content Type: image/png
+
+Uri: https://gcoin.tech/public/front/assets/img/icon/industry.png
+File Name: C:\Downloaded Web Sites\gcoin.tech\public\front\assets\img\icon\industry.png
+Content Type: image/png
+
+Uri: https://gcoin.tech/public/front/assets/img/icon/insurance.png
+File Name: C:\Downloaded Web Sites\gcoin.tech\public\front\assets\img\icon\insurance.png
+Content Type: image/png
+
+Uri: https://gcoin.tech/public/front/assets/img/icon/man.png
+File Name: C:\Downloaded Web Sites\gcoin.tech\public\front\assets\img\icon\man.png
+Content Type: image/png
+
+Uri: https://gcoin.tech/public/front/assets/img/icon/secure.png
+File Name: C:\Downloaded Web Sites\gcoin.tech\public\front\assets\img\icon\secure.png
+Content Type: image/png
+
+Uri: https://gcoin.tech/public/front/assets/img/icon/wallet.png
+File Name: C:\Downloaded Web Sites\gcoin.tech\public\front\assets\img\icon\wallet.png
+Content Type: image/png
+
+Uri: https://gcoin.tech/public/front/assets/js/app.js
+File Name: C:\Downloaded Web Sites\gcoin.tech\public\front\assets\js\app.js
+Content Type: application/javascript
+
+Uri: https://gcoin.tech/public/front/assets/js/countdown.js
+File Name: C:\Downloaded Web Sites\gcoin.tech\public\front\assets\js\countdown.js
+Content Type: application/javascript
+
+Uri: https://gcoin.tech/public/front/assets/js/jquery-1.12.4.min.js
+File Name: C:\Downloaded Web Sites\gcoin.tech\public\front\assets\js\jquery-1.12.4.min.js
+Content Type: application/javascript
+
+Uri: https://gcoin.tech/public/front/assets/js/jquery.counterup.min.js
+File Name: C:\Downloaded Web Sites\gcoin.tech\public\front\assets\js\jquery.counterup.min.js
+Content Type: application/javascript
+
+Uri: https://gcoin.tech/public/front/assets/js/jquery.magnific-popup.min.js
+File Name: C:\Downloaded Web Sites\gcoin.tech\public\front\assets\js\jquery.magnific-popup.min.js
+Content Type: application/javascript
+
+Uri: https://gcoin.tech/public/front/assets/js/modernizr-2.8.3.min.js
+File Name: C:\Downloaded Web Sites\gcoin.tech\public\front\assets\js\modernizr-2.8.3.min.js
+Content Type: application/javascript
+
+Uri: https://gcoin.tech/public/front/assets/js/particles.min.js
+File Name: C:\Downloaded Web Sites\gcoin.tech\public\front\assets\js\particles.min.js
+Content Type: application/javascript
+
+Uri: https://gcoin.tech/public/front/assets/js/scripts.js
+File Name: C:\Downloaded Web Sites\gcoin.tech\public\front\assets\js\scripts.js
+Content Type: application/javascript
+
+Uri: https://gcoin.tech/public/front/assets/js/scrolltopcontrol.js
+File Name: C:\Downloaded Web Sites\gcoin.tech\public\front\assets\js\scrolltopcontrol.js
+Content Type: application/javascript
+
+Uri: https://gcoin.tech/public/front/assets/js/wow.min.js
+File Name: C:\Downloaded Web Sites\gcoin.tech\public\front\assets\js\wow.min.js
+Content Type: application/javascript
+
+Uri: https://gcoin.tech/public/front/assets/owlcarousel/css/AjaxLoader.html
+File Name: C:\Downloaded Web Sites\gcoin.tech\public\front\assets\owlcarousel\css\AjaxLoader.html
+Content Type: text/html
+
+Uri: https://gcoin.tech/public/front/assets/owlcarousel/css/grabbing.html
+File Name: C:\Downloaded Web Sites\gcoin.tech\public\front\assets\owlcarousel\css\grabbing.html
+Content Type: text/html
+
+Uri: https://gcoin.tech/public/front/assets/owlcarousel/css/owl.carousel.css
+File Name: C:\Downloaded Web Sites\gcoin.tech\public\front\assets\owlcarousel\css\owl.carousel.css
+Content Type: text/css
+
+Uri: https://gcoin.tech/public/front/assets/owlcarousel/css/owl.theme.css
+File Name: C:\Downloaded Web Sites\gcoin.tech\public\front\assets\owlcarousel\css\owl.theme.css
+Content Type: text/css
+
+Uri: https://gcoin.tech/public/front/assets/owlcarousel/js/owl.carousel.min.js
+File Name: C:\Downloaded Web Sites\gcoin.tech\public\front\assets\owlcarousel\js\owl.carousel.min.js
+Content Type: application/javascript
+
+Uri: https://gcoin.tech/public/logo.png
+File Name: C:\Downloaded Web Sites\gcoin.tech\public\logo.png
+Content Type: image/png
+
+Uri: https://gcoin.tech/public/panel/assets/plugins/toastr/toastr.min.css
+File Name: C:\Downloaded Web Sites\gcoin.tech\public\panel\assets\plugins\toastr\toastr.min.css
+Content Type: text/css
+
+Uri: https://gcoin.tech/public/panel/assets/plugins/toastr/toastr.min.js
+File Name: C:\Downloaded Web Sites\gcoin.tech\public\panel\assets\plugins\toastr\toastr.min.js
+Content Type: application/javascript
+
+Uri: https://gcoin.tech/Terms-Conditions
+File Name: C:\Downloaded Web Sites\gcoin.tech\Terms-Conditions.html
+Content Type: text/html
+
+Uri: https://maps.googleapis.com/maps/api/js?key=AIzaSyDsZ-Acy5Qz-RGmlRLVqnaPq8_2G9c-riE&ver=6.0.1
+File Name: C:\Downloaded Web Sites\gcoin.tech\maps\api\js
+Content Type: text/javascript
+
+Uri: https://maps.googleapis.com/maps/api/js?key=AIzaSyDsZ-Acy5Qz-RGmlRLVqnaPq8_2G9c-riE&ver=6.1.1
+File Name: C:\Downloaded Web Sites\gcoin.tech\maps\api\js-1
+Content Type: text/javascript
+
+Uri: https://secure.gravatar.com/images/grav-share-sprite-2x.png
+File Name: C:\Downloaded Web Sites\gcoin.tech\images\grav-share-sprite-2x.png
+Content Type: image/png
+
+Uri: https://secure.gravatar.com/images/grav-share-sprite.png
+File Name: C:\Downloaded Web Sites\gcoin.tech\images\grav-share-sprite.png
+Content Type: image/png
+
+Uri: https://stats.wp.com/e-202248.js
+File Name: C:\Downloaded Web Sites\gcoin.tech\e-202248.js
+Content Type: application/javascript
+
+Uri: https://stats.wp.com/s-202248.js
+File Name: C:\Downloaded Web Sites\gcoin.tech\s-202248.js
+Content Type: application/javascript
+
+Uri: https://www.googletagmanager.com/gtag/js?id=UA-124920263-1
+File Name: C:\Downloaded Web Sites\gcoin.tech\gtag\js
+Content Type: application/javascript
+
